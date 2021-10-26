@@ -3,7 +3,7 @@
 I'm **Didier Crespo**, a person who always likes to learn new things, I am passionate about web development and I love that everything works perfectly.
 I currently love the SRE/DEVOPS field, although I also have experience and a taste for web development.
 I love to extend my knowledge to those who need it, and that is why I am a member
-/ founder of a student chapter called **[AAAIMX International Student Chapter](https://aaaimx.org/)**, and I am also the leader of the operations division of this same student chapter.
+I am also the leader of the social impact division of this same student chapter called **[AAAIMX International Student Chapter](https://aaaimx.org/)**.
 
 ## Stats
 
