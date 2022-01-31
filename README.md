@@ -1,9 +1,8 @@
 # Hi there 👋
 
-I'm **Didier Crespo**, a person who always likes to learn new things, I am passionate about web development and I love that everything works perfectly.
-I currently love the SRE/DEVOPS field, although I also have experience and a taste for web development.
-I love to extend my knowledge to those who need it, and that is why I am a member
-I am also the leader of the social impact division of this same student chapter called **[AAAIMX International Student Chapter](https://aaaimx.org/)**.
+I'm **Didier Crespo**, a person who always likes to learn new things, I am passionate about mobile development and I love that everything works perfectly.
+My dream and goal is to next CEO in Google or another company in technology.
+I love to extend my knowledge to those who need it, and that is why I am a member and also the president of this same student chapter called **[AAAIMX International Student Chapter](https://aaaimx.org/)**.
 
 ## Stats
 
