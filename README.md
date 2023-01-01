@@ -30,13 +30,13 @@ I love to extend my knowledge to those who need it, and that is why I am a membe
 
 ### Tools SRE  :hammer_and_wrench:
 
-| [<img src="assets/docker.png" alt="docker logo" width="50">](https://www.docker.com/) | [<img src="assets/docker-compose-mini.png" alt="compose logo" width="50">](https://docs.docker.com/compose/) | [<img src="assets/terraform.png" alt="terraform logo" width="50">](https://www.terraform.io/) | [<img src="assets/nginx.png" alt="nginx logo" width="40">](https://www.nginx.com/) | [<img src="assets/kubernetes01.png" alt="kubernetes logo" width="50">](https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/)  | [<img src="assets/jenkins.png" alt="jenkins logo" width="50">](https://www.jenkins.io/)  | 
+| [<img src="assets/docker.png" alt="docker logo" width="50">](https://www.docker.com/) | [<img src="assets/docker-compose-mini.png" alt="compose logo" width="50">](https://docs.docker.com/compose/) | [<img src="assets/nginx.png" alt="nginx logo" width="40">](https://www.nginx.com/) | 
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |-------------------------------------------------------------------------------------------- |
 
 
 ### Databases :floppy_disk:
 
-| [<img src="assets/postgres.svg" alt="postgres logo" width="40">](https://www.postgresql.org/) | [<img src="assets/mysql.png" alt="mysql logo" width="60">](https://www.mysql.com/) | [<img src="assets/mongo.png" alt="mongo logo" width="50">](https://www.mongodb.com/es) | [<img src="assets/sqlite.png" alt="sqlite logo" width="70">](https://www.sqlite.org/index.html) |
+| [<img src="assets/postgres.svg" alt="postgres logo" width="40">](https://www.postgresql.org/) | [<img src="assets/mysql.png" alt="mysql logo" width="60">](https://www.mysql.com/) | [<img src="assets/mongo.png" alt="mongo logo" width="50">](https://www.mongodb.com/es) |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 
 
