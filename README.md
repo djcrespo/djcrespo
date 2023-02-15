@@ -38,7 +38,7 @@ I love to extend my knowledge to those who need it, and that is why I am a membe
 
 ### other technologies :hammer_and_wrench:
 
-| [<img src="assets/git.png" alt="git logo" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/) | 
+[<img src="assets/git.png" alt="git logo" width="40">](https://git-scm.com/) [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/)
 
 
 ### Cloud :cloud:
