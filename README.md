@@ -42,8 +42,6 @@ I love to extend my knowledge to those who need it, and that is why I am a membe
 ### Cloud :cloud:
 
 - [<img src="assets/aws.png" alt="aws logo" width="50">](https://aws.amazon.com/)
-- [<img src="assets/digitalocean.jpeg" alt="do logo" width="50">](https://www.digitalocean.com/)
-- [<img src="assets/google-cloud.png" alt="gc logo" width="50">](https://cloud.google.com/?hl=es_419)
 
 <h3>Connect with me<img aling="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
 
