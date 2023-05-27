@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm **Didier Crespo**, a person who always likes to learn new things, I am passionate about mobile development and I love that everything works perfectly.
-I love to extend my knowledge to those who need it, and that is why I am a member and also the president of this same student chapter called **[AAAIMX International Student Chapter](https://aaaimx.org/)**.
+I love to extend my knowledge to those who need it, and that is why I am a member of this same student chapter called **[AAAIMX International Student Chapter](https://aaaimx.org/)**.
 
 ## Skills
 
